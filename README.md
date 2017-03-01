@@ -37,10 +37,15 @@ Samples and good practices about bots: [http://github.com/Microsoft/BotBuilder](
 ## Creating our first bot
 1) Create a package.json file
 ![Visual Studio Code, new file](/images/bot2.png)
+
 2) Install npm package  (console showed by Ctrl + ñ)
+
 ![Visual Studio Code, console](/images/console3.png)
+
 `npm install botbuilder --save`
+
 3) Create new file for our bot. "hellobot.js"
+
 Write inside:
 
 ```javascript
