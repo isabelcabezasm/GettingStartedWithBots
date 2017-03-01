@@ -68,4 +68,9 @@ It's waiting!
 The bot waits the user leads the way and start the conversation:
 
 If we write anything, it answers 'Hello bot':
+
 ![Visual Studio Code, console, bot running](/images/run4.png)
+
+Well... It's not really an intelligent bot, but it's our bot. 
+
+Now we can bring up our bot.
