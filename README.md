@@ -78,4 +78,5 @@ If we write anything, it answers 'Hello bot':
 
 Well... It's not really an intelligent bot, but it's our bot. 
 
-Now we can bring up our bot.
+
+[Now we can bring up our bot](bringup.md)
